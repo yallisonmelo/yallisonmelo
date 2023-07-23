@@ -1,8 +1,8 @@
 <h1 align="center">Hello! 👋, I'm Yallison Melo  - @yallisonmelo</h1>
 <h3 align="center">I am Software Engineer</h3>
 
-- 🖥️  -  I currently work as a Software Specialist at Inter.**
-- 💻  - Here I will put experiments with some programming languages ​​like Java, GO, PHP, JS and in the future React.
+- 🖥️    -   I currently work as a Software Specialist at Inter.
+- 💻    -   Here I will put experiments with some programming languages ​​like Java, GO, PHP, JS and in the future React.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yallisonmelo&label=Profile%20views&color=0e75b6&style=flat" alt="yallisonmelo" /> </p>
 <h3 align="left">Connect with me:</h3>
