@@ -26,6 +26,6 @@
   <img align="center" alt="yallisonmelo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="yallisonmelo-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="yallisonmelo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="yallisonmelo-kuberntes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="yallisonmelo-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" alt="yallisonmelo-kuberntes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" alt="yallisonmelo-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
 </div>
