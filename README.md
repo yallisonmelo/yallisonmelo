@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/yallisonmelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yallisonmelo" height="30" width="40" /></a> 
 <a href="https://medium.com/@yallisonmelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="yallisonmelo" height="30" width="40" /></a> 
-<a href="mailto:yallisonmelo@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="yallisonmelo" height="30" width="40" /></a> 
 </p>
 
 
