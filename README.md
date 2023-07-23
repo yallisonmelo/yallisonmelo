@@ -8,6 +8,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yallisonmelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yallisonmelo" height="30" width="40" /></a> </p>
+<p align="left">
+<a href="https://medium.com/@yallisonmelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="yallisonmelo" height="30" width="40" /></a> </p>
+<p align="left">
+<a href="mailto:yallisonmelo@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="yallisonmelo" height="30" width="40" /></a> </p>
 
 
  <div>
@@ -26,12 +30,4 @@
   <img align="center" alt="yallisonmelo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="yallisonmelo-kuberntes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="yallisonmelo-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
-</div>
-
-
-
-
-<div>
-  <a href = "mailto:yallisonmelo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yallisonmelo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
