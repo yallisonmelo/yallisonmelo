@@ -18,6 +18,7 @@
 <div style="float:left;">
 <h3 align="left">Languages:</h3>
   <img align="center" alt="yallisonmelo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="yallisonmelo-Spring" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/src/images/icons/BackendDevelopment/spring.svg">
   <img align="center" alt="yallisonmelo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="yallisonmelo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="yallisonmelo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
